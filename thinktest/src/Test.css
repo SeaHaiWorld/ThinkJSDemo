@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+.body{
+  display: flex;
+  width:100%
+}
+
+.table-bordered{
+  width: 300px;
+  border:solid 1px black;
+}

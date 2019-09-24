@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="821925fc-fc27-4b54-94a9-55c99a7786d9" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1QPUKvGkHNsF2Mxu7GfpB5GvuuN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="821925fc-fc27-4b54-94a9-55c99a7786d9" name="默认的" comment="" />
+      <created>1567671997507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567671997507</updated>
+      <workItem from="1567671999009" duration="869000" />
+      <workItem from="1567673515770" duration="3651000" />
+      <workItem from="1567818464763" duration="7166000" />
+      <workItem from="1567835882512" duration="11902000" />
+      <workItem from="1567847961759" duration="279000" />
+      <workItem from="1567928745214" duration="771000" />
+      <workItem from="1567929709732" duration="3817000" />
+      <workItem from="1568102784966" duration="931000" />
+      <workItem from="1568105763721" duration="1922000" />
+      <workItem from="1568361919925" duration="1247000" />
+      <workItem from="1568453894168" duration="45000" />
+      <workItem from="1568461804913" duration="254000" />
+      <workItem from="1568463206111" duration="66000" />
+      <workItem from="1568463951600" duration="891000" />
+      <workItem from="1568876592994" duration="766000" />
+      <workItem from="1568879051024" duration="29000" />
+      <workItem from="1569154721648" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
